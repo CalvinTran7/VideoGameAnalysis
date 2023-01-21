@@ -13,5 +13,5 @@ The goal of the project was to analyze the video games sales dataset and answer 
 * Data Cleaning
 * Data Transformation
 * Data Analysis
-** Data Visualization
+  * Data Visualization
 
